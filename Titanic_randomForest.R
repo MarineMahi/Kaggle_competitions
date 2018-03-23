@@ -152,7 +152,7 @@ ggpairs(Data_cor)
 #                             Random Forest model 
 #===========================================================================
 
-#------------- Tuning random forest model hyperparameters using CV ----------
+#------------- Tuning random forest hyperparameters using CV ----------
 
 head(data)
 
