@@ -1,5 +1,3 @@
-setwd ('C:/data_science/Kaggle/Titanic_competition')
-
 test_data <- read.table('test.csv', header = T, sep = "," , na.strings = "")
 train_data <- read.table ('Train.csv', header = T, sep = ",", na.strings = "") 
 head(train_data)
