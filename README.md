@@ -10,4 +10,4 @@ Use machine learning tools to predict which passenger survived
 
 (2) Titanic_RandomForest.R : random forest and cross validation.
 
-(3) Titanic_GBM.R: GB and cross vaildation
+(3) Titanic_GBM.R: GBM and cross vaildation
